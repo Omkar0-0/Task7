@@ -9,15 +9,6 @@ A simple, clean implementation that uses JavaScript's Fetch API to retrieve user
 - **Reload Functionality**: Button to refetch data from the API
 - **Responsive Layout**: Flexible card-based layout
 
-## Files Structure
-```
-taskseven/
-├── index.html          # Simple HTML structure
-├── styles.css          # Grayish theme styling
-├── script.js           # JavaScript functionality (under 100 lines)
-└── README.md           # Documentation
-```
-
 ## API Endpoint
 - **URL**: `https://jsonplaceholder.typicode.com/users`
 - **Method**: GET
